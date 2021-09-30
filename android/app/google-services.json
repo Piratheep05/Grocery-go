@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352241763250",
+    "firebase_url": "https://kitchin-app-default-rtdb.firebaseio.com",
+    "project_id": "kitchin-app",
+    "storage_bucket": "kitchin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352241763250:android:17bbaea431d34c7de31aab",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352241763250-j2acf77ovhuo17go5gt01l71m3r9vc7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcPc4JHJUqJ47WBNDlELRJ-F78e3dYsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352241763250-j2acf77ovhuo17go5gt01l71m3r9vc7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
